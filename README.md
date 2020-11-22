@@ -1,3 +1,5 @@
 # block-world
 Blocks...
-![Error Loading](../block.GIF)
+
+
+![Error Loading](block.gif)
