@@ -2,4 +2,4 @@
 Blocks...
 
 
-![Error Loading](block-world/block.gif)
+![Error Loading](./block.GIF)
